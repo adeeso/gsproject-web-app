@@ -1,0 +1,32 @@
+
+ #bar{background-color:rgb(0,128,255); overflow: auto;}
+#top{border:1px solid red; width:20%; float: left; height: 80px; text-align: center;padding-top: 15px;}
+#mid{border:1px solid red; width: 50%; float: left; height: 80px;}
+#midtop{border:1px solid red; width: 30%; float: right; height: 80px; padding-top:15px}
+ul li{display: inline; line-height: 60px; margin: 8px}
+a:hover{color:purple;}
+a{color: white}
+
+.parent{overflow: auto;}
+#style1{width: 28%; float: left; border: 1px solid red; overflow: auto; margin-top: 10px; border-radius: 20px; background-color:black}
+#style2{width: 69.5%; float: right; border: 1px solid red;}
+#row1{height: 100px; width: 30%; float: left; border-bottom: 1px solid grey}
+#row2{height: 100px; width: 70%; float: right; border-bottom: 1px solid grey}
+img{margin-left: 30px; margin-top: 20px; width: 40px; height: 40px; }
+h4{line-height: 80px; color: white}
+#row3{height: 100px; width: 30%; float: left; border-bottom: 1px solid grey}
+#row4{height: 100px; width: 70%; float: right; border-bottom: 1px solid grey}
+#row5{height: 100px; width: 30%; float: left; border-bottom: 1px solid grey}
+#row6{height: 100px; width: 70%; float: right; border-bottom: 1px solid grey}
+#row7{height: 100px; width: 30%; float: left; border-bottom: 1px solid grey}
+#row8{height: 100px; width: 70%; float: right; border-bottom: 1px solid grey}
+#row9{height: 100px; width: 30%; float: left; border-bottom: 1px solid grey}
+#row10{height: 100px; width: 70%; float: right; border-bottom: 1px solid grey}
+#row11{width: 33%; float: left; height: 100px; border-right: 1px solid grey}
+#row12{width: 33%; float: left;height: 100px; border-right: 1px solid grey}
+#row13{width: 33%; float: right;height: 100px;  border-right: 1px solid grey}
+.footer{
+  background-color:grey;
+   text-align: center;
+    color:white
+  }

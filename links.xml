@@ -1,0 +1,22 @@
+<pages>
+<link>
+</link>
+<link>
+<title>project by department</title>
+<url>http://localhost/gsproject/dept.php</url>
+</link>
+<link>
+<title>project by faculty</title>
+<url>
+http://localhost/gsproject/Myproject.php
+</url>
+</link>
+<link>
+<title>How to download project</title>
+<url>http://localhost/gsproject/payment.php</url>
+</link>
+<link>
+<title>About gsproject</title>
+<url>http://localhost/gsproject/aboutUs.php</url>
+</link>
+</pages>
